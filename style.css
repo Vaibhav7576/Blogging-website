@@ -1,0 +1,45 @@
+.navbar-brand {
+        font-size: 35px;
+      }
+      .navbar-nav {
+        gap: 150px;
+        font-size: 20px;
+      }
+      .carousel-inner {
+        height: 50vh;
+        width: 60vw;
+      }
+      .carousel-item {
+        height: 50vh;
+        width: 60vw;
+      }
+      h1 {
+        font-family: "Courier New", Courier, monospace;
+        text-align: center;
+        margin: 30px 30px;
+      }
+      #carouselExampleInterval {
+        position: relative;
+        left: 330px;
+      }
+      .cards{
+        display:flex;
+        flex-wrap:wrap;
+        justify-content: space-between;
+        margin-left: 280px;
+        
+        align-content: center;
+      }
+      .card{
+        margin-top:30px;
+      }
+      
+      .card img {
+        height: 200px;
+        width: 800px;
+      }
+      footer{
+        background-color: rgb(44, 40, 40);
+        text-align:center;
+        margin-top:10px;
+      }
